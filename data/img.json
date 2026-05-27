@@ -1,0 +1,19 @@
+{
+    "imgUrl": {
+        "foto1": "img/centil 2.webp",
+        "foto2": "img/centil 3.webp"
+    },
+    "imgSlide": [
+        "img/acara 1.webp",
+        "img/acara 3.webp",
+        "img/foto ga mandi.webp",
+        "img/foto lab 2.webp",
+        "img/inter 6.webp",
+        "img/konten 2.webp",
+        "img/lkmt 2.webp",
+        "img/usatazah.webp"
+    ],
+    "imgKanan": "img/utama (1).jpeg",
+    "imgKiri": "img/utama (2).jpeg"
+    
+}
